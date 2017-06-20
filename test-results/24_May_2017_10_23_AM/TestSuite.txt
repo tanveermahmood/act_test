@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 97.017 sec <<< FAILURE!
+takeAQuiz(com.act_test.Test.ActTest)  Time elapsed: 83.669 sec  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Timed out after 30 seconds: Wait time out for TextView for Correct 110 to be visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:292)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.waitForVisible(QAFExtendedWebElement.java:478)
+	at com.act_test.Pages.AttemptquestionsTestPage.verifyResult(AttemptquestionsTestPage.java:78)
+	at com.act_test.Test.ActTest.takeAQuiz(ActTest.java:45)

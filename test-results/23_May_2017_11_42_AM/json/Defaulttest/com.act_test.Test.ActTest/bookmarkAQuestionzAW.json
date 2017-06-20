@@ -1,0 +1,52 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView[@instance='6']}"
+      ],
+      "result": "[id: 1]",
+      "subLogs": [],
+      "duration": 141
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView[@instance='6']}"
+      ],
+      "result": "id: 2",
+      "subLogs": [],
+      "duration": 106
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.widget.ImageView[@instance='6']",
+        "{\"id\":\"2\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 21
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView[@instance='6']}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 119
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.ImageView[@instance='6']",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 536
+    }
+  ],
+  "checkPoints": []
+}

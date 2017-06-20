@@ -1,0 +1,429 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 1]",
+      "subLogs": [],
+      "duration": 4519
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 2",
+      "subLogs": [],
+      "duration": 117
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"2\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 159
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 3]",
+      "subLogs": [],
+      "duration": 571
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 4",
+      "subLogs": [],
+      "duration": 92
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"4\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 75
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 5]",
+      "subLogs": [],
+      "duration": 1131
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 176
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 241
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 7]",
+      "subLogs": [],
+      "duration": 757
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 74
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"8\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 476
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 9]",
+      "subLogs": [],
+      "duration": 271
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 10",
+      "subLogs": [],
+      "duration": 235
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"10\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 164
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 11]",
+      "subLogs": [],
+      "duration": 1221
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 12",
+      "subLogs": [],
+      "duration": 116
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"12\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 76
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 13]",
+      "subLogs": [],
+      "duration": 509
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 14",
+      "subLogs": [],
+      "duration": 367
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"14\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 380
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 1641
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[id: 15, id: 16, id: 17, id: 18, id: 19, id: 20, id: 21, id: 22, id: 23]",
+      "subLogs": [],
+      "duration": 198
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[id: 24, id: 25, id: 26, id: 27, id: 28, id: 29, id: 30, id: 31, id: 32]",
+      "subLogs": [],
+      "duration": 224
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 55
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 137
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 43
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 72
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 62
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 90
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[id: 33, id: 34, id: 35, id: 36, id: 37, id: 38, id: 39, id: 40, id: 41]",
+      "subLogs": [],
+      "duration": 745
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.ImageView",
+        "{\"id\":\"34\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 817
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=xpath, value=//android.widget.TextView[@text='Take a quiz']}"
+      ],
+      "result": "id: 42",
+      "subLogs": [],
+      "duration": 901
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Take a quiz']",
+        "{\"id\":\"42\"}"
+      ],
+      "result": "getElementText:Take a quiz",
+      "subLogs": [],
+      "duration": 684
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageButton[@resource-id='com.jquiz.act:id/btnWhiteboard']}"
+      ],
+      "result": "id: 43",
+      "subLogs": [],
+      "duration": 243
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.ImageButton[@resource-id='com.jquiz.act:id/btnWhiteboard']",
+        "{\"id\":\"43\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 487
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=xpath, value=//android.widget.TextView[@text='Note']}"
+      ],
+      "result": "id: 44",
+      "subLogs": [],
+      "duration": 562
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Note']",
+        "{\"id\":\"44\"}"
+      ],
+      "result": "getElementText:Note",
+      "subLogs": [],
+      "duration": 68
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=xpath, value=//android.widget.TextView[@text='White board']}"
+      ],
+      "result": "id: 45",
+      "subLogs": [],
+      "duration": 278
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='White board']",
+        "{\"id\":\"45\"}"
+      ],
+      "result": "getElementText:White board",
+      "subLogs": [],
+      "duration": 174
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=xpath, value=//android.widget.TextView[@text='Web']}"
+      ],
+      "result": "id: 46",
+      "subLogs": [],
+      "duration": 143
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Web']",
+        "{\"id\":\"46\"}"
+      ],
+      "result": "getElementText:Web",
+      "subLogs": [],
+      "duration": 70
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "\nExpected: a string containing \"Take a quiz\"\n     Actual: was \"Take a quiz\"",
+      "type": "Pass",
+      "screenshot": "../img/searchInWeb_zyydfoertxw418176.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "\nExpected: a string containing \"Note\"\n     Actual: was \"Note\"",
+      "type": "Pass",
+      "screenshot": "../img/searchInWeb_su1yuocbd3e918177.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "\nExpected: a string containing \"White Board\"\n     Actual: was \"White board\"",
+      "type": "Fail",
+      "screenshot": "../img/searchInWeb_1jbg6deq7tpel18178.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "\nExpected: a string containing \"Web\"\n     Actual: was \"Web\"",
+      "type": "Pass",
+      "screenshot": "../img/searchInWeb_2tvqokolwjnr18179.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

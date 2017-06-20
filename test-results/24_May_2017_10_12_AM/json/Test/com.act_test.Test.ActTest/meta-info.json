@@ -1,0 +1,20 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "TC_1",
+        "groups": [],
+        "name": "bookmarkAQuestion",
+        "sign": "ActTest.bookmarkAQuestion()[pri:1, instance:com.act_test.Test.ActTest@4b4bb49e]"
+      },
+      "dependsOn": [],
+      "startTime": 1495620766327,
+      "duration": 79116,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

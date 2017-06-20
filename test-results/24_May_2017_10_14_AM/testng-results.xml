@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "Take a quiz"
+     Actual: was "Take a quiz" <a href="../img/bookmarkAQuestion_37ej9tt5ztk329991.png" target="_blank">[View Screenshot]</a> </div><div  class="fail"><span class="fail-label">F </span>Bookmarked question is present in the list 
+Expected: &lt;true&gt;
+     Actual: was &lt;false&gt; <a href="../img/bookmarkAQuestion_1t0d8gj1g3yq529992.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="134430" started-at="2017-05-24T10:14:45Z" finished-at="2017-05-24T10:17:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="134430" started-at="2017-05-24T10:14:45Z" finished-at="2017-05-24T10:17:00Z">
+      <class name="com.act_test.Test.ActTest">
+        <test-method status="PASS" signature="setupSuit(org.testng.ITestContext)[pri:0, instance:com.act_test.Test.ActTest@573f17b0]" name="setupSuit" is-config="true" duration-ms="28" started-at="2017-05-24T15:44:45Z" finished-at="2017-05-24T15:44:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@71761366]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuit -->
+        <test-method status="PASS" signature="setupTest(org.testng.ITestContext)[pri:0, instance:com.act_test.Test.ActTest@573f17b0]" name="setupTest" is-config="true" duration-ms="1" started-at="2017-05-24T15:44:45Z" finished-at="2017-05-24T15:44:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@71761366]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.act_test.Test.ActTest@573f17b0]" name="setup" is-config="true" duration-ms="4" started-at="2017-05-24T15:44:45Z" finished-at="2017-05-24T15:44:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@71761366]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.act_test.Test.ActTest@573f17b0]" name="setupMethod" is-config="true" duration-ms="1" started-at="2017-05-24T15:44:45Z" finished-at="2017-05-24T15:44:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.act_test.Test.ActTest.bookmarkAQuestion() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@71761366]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="FAIL" signature="bookmarkAQuestion()[pri:1, instance:com.act_test.Test.ActTest@573f17b0]" name="bookmarkAQuestion" duration-ms="132248" started-at="2017-05-24T15:44:45Z" description="TC_1" finished-at="2017-05-24T15:46:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "Take a quiz"
+     Actual: was "Take a quiz" <a href="../img/bookmarkAQuestion_37ej9tt5ztk329991.png" target="_blank">[View Screenshot]</a> </div><div  class="fail"><span class="fail-label">F </span>Bookmarked question is present in the list 
+Expected: &lt;true&gt;
+     Actual: was &lt;false&gt; <a href="../img/bookmarkAQuestion_1t0d8gj1g3yq529992.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bookmarkAQuestion -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.act_test.Test.ActTest@573f17b0]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-05-24T15:46:57Z" finished-at="2017-05-24T15:46:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@71761366]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=bookmarkAQuestion status=FAILURE method=ActTest.bookmarkAQuestion()[pri:1, instance:com.act_test.Test.ActTest@573f17b0] output=<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "Take a quiz"
+     Actual: was "Take a quiz" <a href="../img/bookmarkAQuestion_37ej9tt5ztk329991.png" target="_blank">[View Screenshot]</a> </div><div  class="fail"><span class="fail-label">F </span>Bookmarked question is present in the list 
+Expected: &lt;true&gt;
+     Actual: was &lt;false&gt; <a href="../img/bookmarkAQuestion_1t0d8gj1g3yq529992.png" target="_blank">[View Screenshot]</a> </div></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.act_test.Test.ActTest@573f17b0]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-05-24T15:46:57Z" finished-at="2017-05-24T15:46:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@71761366]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:com.act_test.Test.ActTest@573f17b0]" name="afterTest" is-config="true" duration-ms="2099" started-at="2017-05-24T15:46:57Z" finished-at="2017-05-24T15:47:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@71761366]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuit(org.testng.ITestContext)[pri:0, instance:com.act_test.Test.ActTest@573f17b0]" name="afterSuit" is-config="true" duration-ms="3" started-at="2017-05-24T15:47:00Z" finished-at="2017-05-24T15:47:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@71761366]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- com.act_test.Test.ActTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

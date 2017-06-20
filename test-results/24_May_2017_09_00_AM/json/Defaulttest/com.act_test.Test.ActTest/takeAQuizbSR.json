@@ -1,0 +1,621 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 1]",
+      "subLogs": [],
+      "duration": 692
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 2",
+      "subLogs": [],
+      "duration": 145
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"2\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 449
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 3]",
+      "subLogs": [],
+      "duration": 889
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 4",
+      "subLogs": [],
+      "duration": 343
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"4\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 518
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 5]",
+      "subLogs": [],
+      "duration": 1112
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 299
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 652
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 7]",
+      "subLogs": [],
+      "duration": 948
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 127
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"8\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 170
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 9]",
+      "subLogs": [],
+      "duration": 2520
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 10",
+      "subLogs": [],
+      "duration": 381
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"10\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 389
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 11]",
+      "subLogs": [],
+      "duration": 751
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 12",
+      "subLogs": [],
+      "duration": 784
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"12\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 423
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[id: 13]",
+      "subLogs": [],
+      "duration": 106
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "id: 14",
+      "subLogs": [],
+      "duration": 856
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvLoading",
+        "{\"id\":\"14\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 223
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvLoading}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2786
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[id: 15, id: 16, id: 17, id: 18, id: 19, id: 20, id: 21, id: 22, id: 23]",
+      "subLogs": [],
+      "duration": 245
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[id: 24, id: 25, id: 26, id: 27, id: 28, id: 29, id: 30, id: 31, id: 32]",
+      "subLogs": [],
+      "duration": 271
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.ImageView}"
+      ],
+      "result": "[id: 33, id: 34, id: 35, id: 36, id: 37, id: 38, id: 39, id: 40, id: 41]",
+      "subLogs": [],
+      "duration": 167
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.ImageView",
+        "{\"id\":\"34\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 862
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=xpath, value=//android.widget.TextView[@text='Take a quiz']}"
+      ],
+      "result": "id: 42",
+      "subLogs": [],
+      "duration": 834
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Take a quiz']",
+        "{\"id\":\"42\"}"
+      ],
+      "result": "getElementText:Take a quiz",
+      "subLogs": [],
+      "duration": 210
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.Button[@text='Start']}"
+      ],
+      "result": "[id: 43]",
+      "subLogs": [],
+      "duration": 66
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=xpath, value=//android.widget.Button[@text='Start']}"
+      ],
+      "result": "id: 44",
+      "subLogs": [],
+      "duration": 84
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.widget.Button[@text='Start']",
+        "{\"id\":\"44\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 17
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=xpath, value=//android.widget.Button[@text='Start']}"
+      ],
+      "result": "id: 45",
+      "subLogs": [],
+      "duration": 92
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[@text='Start']",
+        "{\"id\":\"45\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 303
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=xpath, value=//android.widget.HorizontalScrollView//android.widget.TextView}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 397
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "[id: 46]",
+      "subLogs": [],
+      "duration": 163
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "id: 47",
+      "subLogs": [],
+      "duration": 221
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.id: com.jquiz.act:id/tvTitle",
+        "{\"id\":\"47\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 63
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 1.18 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 1177
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 1.35 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 1354
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 75 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 75
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 67 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 68
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 128 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 128
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 72 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 72
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 77 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 78
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 213 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 214
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 106 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 106
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 75 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 75
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 93 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 93
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 96 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 96
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 108 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 108
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 88 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 89
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 122 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 123
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 73 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 74
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 121 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 121
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 90 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 91
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 95 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 95
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 83 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 83
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 98 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 98
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 80 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 81
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 108 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 109
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 95 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 95
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 93 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 93
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 117 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 117
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{using=id, value=com.jquiz.act:id/tvTitle}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 74 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]",
+      "subLogs": [],
+      "duration": 74
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.id: com.jquiz.act:id/tvTitle",
+        "{\"id\":\"-1\"}"
+      ],
+      "result": "Timed out after 30 seconds waiting for presence of element located by: By.id: com.jquiz.act:id/tvTitle\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\nDriver info: driver.version: QAFExtendedWebDriver",
+      "subLogs": [],
+      "duration": 974149730
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "\nExpected: a string containing \"Take a quiz\"\n     Actual: was \"Take a quiz\"",
+      "type": "Pass",
+      "screenshot": "../img/takeAQuiz_bkmxbs2iy1ki17763.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Timed out after 30 seconds waiting for presence of element located by: By.id: com.jquiz.act:id/tvTitle\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\nDriver info: driver.version: QAFExtendedWebDriver",
+      "type": "Fail",
+      "screenshot": "../img/takeAQuiz_uc8vd2mj40zl17764.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": "org.openqa.selenium.TimeoutException: Timed out after 30 seconds waiting for presence of element located by: By.id: com.jquiz.act:id/tvTitle\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\nDriver info: driver.version: QAFExtendedWebDriver\r\n\tat org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:292)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.load(QAFExtendedWebDriver.java:214)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.load(QAFExtendedWebElement.java:284)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.execute(QAFExtendedWebElement.java:239)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:179)\r\n\tat com.act_test.Pages.AttemptquestionsTestPage.verifyResult(AttemptquestionsTestPage.java:78)\r\n\tat com.act_test.Test.ActTest.takeAQuiz(ActTest.java:45)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:606)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:643)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:805)\r\n\tat org.testng.TestRunner.run(TestRunner.java:655)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:366)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:268)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1169)\r\n\tat org.testng.TestNG.run(TestNG.java:1064)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)\r\nCaused by: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 74 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11544', ip: '192.168.32.2', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'\n*** Element info: {Using=id, value=com.jquiz.act:id/tvTitle}\nSession ID: edd83fb0-1fb1-446d-a75c-a66befa41d81\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{automationName=Appium, platform=LINUX, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, deviceModel=Samsung Galaxy Note 3 - 4.3 - API 18 - 1080x1920, networkConnectionEnabled=true, desired={automationName=Appium, newCommandTimeout=1000, cssSelectorsEnabled=true, javascriptEnabled=true, deviceName=emulator-5554, platformName=Android, driver.class=io.appium.java_client.android.AndroidDriver, appActivity=com.jquiz.act.StartActivity, appium-version=3.3.0, browser_name=, appPackage=com.jquiz.act, takesScreenshot=true}, locationContextEnabled=false, deviceUDID=192.168.32.101:5555, appPackage=com.jquiz.act, newCommandTimeout=1000, platformVersion=4.3, databaseEnabled=false, cssSelectorsEnabled=true, deviceScreenSize=1080x1920, deviceName=192.168.32.101:5555, platformName=Android, deviceManufacturer=Genymotion, appium-version=3.3.0, browser_name=, webStorageEnabled=false, warnings={}, takesScreenshot=true}]\r\n\tat sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:526)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.execute(QAFExtendedWebDriver.java:234)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElementById(QAFExtendedWebDriver.java:371)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElementById(QAFExtendedWebDriver.java:1)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:218)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElement(QAFExtendedWebDriver.java:169)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElement(QAFExtendedWebDriver.java:1)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:911)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:41)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:181)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:178)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:238)\r\n\t... 30 more\r\n"
+}

@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 145.58 sec <<< FAILURE!
+bookmarkAQuestion(com.act_test.Test.ActTest)  Time elapsed: 132.25 sec  <<< FAILURE!
+null

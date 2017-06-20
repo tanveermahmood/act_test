@@ -1,0 +1,37 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "TC_2 ",
+        "groups": [],
+        "name": "takeAQuiz",
+        "sign": "ActTest.takeAQuiz()[pri:2, instance:com.act_test.Test.ActTest@4ee996af]"
+      },
+      "dependsOn": [],
+      "startTime": 1495626714002,
+      "duration": 97718,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "TC_2 ",
+        "groups": [],
+        "name": "takeAQuiz",
+        "resultFileName": "takeAQuizaDz",
+        "sign": "ActTest.takeAQuiz()[pri:2, instance:com.act_test.Test.ActTest@72083f05]"
+      },
+      "dependsOn": [],
+      "startTime": 1495627345650,
+      "duration": 97754,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "TC_2 ",
+        "groups": [],
+        "name": "takeAQuiz",
+        "sign": "ActTest.takeAQuiz()[pri:2, instance:com.act_test.Test.ActTest@1e1c1e6c]"
+      },
+      "dependsOn": [],
+      "startTime": 1495622005792,
+      "duration": 76522,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}
